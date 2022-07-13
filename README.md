@@ -1,16 +1,10 @@
 # world_time_app
 
-Check the world time
+Confira o horário local de diversas cidades no mundo!
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+Este projeto foi realizado dentro do curso de Flutter do canal Net Ninja. 
+Foi executado utilizando Flutter versão 3.0.4.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Após a conclusão do curso, o projeto foi adaptado para pt-BR e as cidades alteradas para serem mais relevantes.

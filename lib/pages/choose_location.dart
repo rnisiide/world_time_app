@@ -49,7 +49,7 @@ class _ChooseLocationState extends State<ChooseLocation> {
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
         backgroundColor: Colors.blue[900],
-        title: const Text('Choose Location'),
+        title: const Text('Escolha a localização'),
         centerTitle: true,
         elevation: 0,
       ),
